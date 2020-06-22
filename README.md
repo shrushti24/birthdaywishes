@@ -16,11 +16,19 @@ pip install pandas
 pip install xlrd
 ```
 
+**Privacy while entering the Gmail password**
+
+The program contains ```getpass``` library which hides the characters while you enter your password. This utility works well if the ```main.py``` script is executed in the terminal. However ```Pycharm```'s default settings does not hide the characters as expected. An error shown below will be popped up
+```sh
+Warning: Password input may be echoed.
+```
+
+To use this utility in ```PyCharm``` >> Click on **Edit Configurations** on the left of the **RUN** button and check **Emulate Terminal in Output Console**.
+
 ### How to use the program
 * An ```Excel Spreadsheet``` has been provided along where you can get the basic template
 * Open the ```Excel Spreadsheet``` and make necessary changes according to you convinience
 * Run the ```main.py``` script using any python editor or terminal.
-* Use of ```terminal``` is preffered for safety reasons.
 
 ### Todos
 
