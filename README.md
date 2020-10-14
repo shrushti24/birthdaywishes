@@ -1,6 +1,6 @@
 # birthdaywishes
 
-This is a ```PYTHON``` program which can be used to send birthday wishe to your friends and families without actually opening Gmail and typing the wishes.
+This is a ```PYTHON``` program which can be used to send birthday wishes to your friends and families without actually opening Gmail and typing the wishes.
 
 ### Installation and Prerequisites
 The user can send mails only if their Gmail account provides access to third party apps. 
